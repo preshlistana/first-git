@@ -18,4 +18,4 @@ the request, then it will remain open. However, if they accept or deny it, it wi
 issue.
 
 Now, I'm learning how to clone git repos and use my terminal to communicate with GitHub browser
-and my laptopt
+and my laptop.
