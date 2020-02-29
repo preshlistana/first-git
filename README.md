@@ -17,5 +17,5 @@ I created my own issue for coding train regarding his rainbow-poem. If they don'
 the request, then it will remain open. However, if they accept or deny it, it will be a closed
 issue.
 
-Now, I'm learning how to clone git repos and use my terminal to communicate with GitHub browser
+Now, I'm learning how to clone git repos & use my terminal to communicate with GitHub browser
 and my laptop.
