@@ -29,3 +29,10 @@ git log //Shows all the commits in a "log" format
 git config --list //Shows all the configuration setting of github profile
 git config --global user.mail //Ensures that when files are pushed, that it goes to the right account
 git config --global user.name //Creates a github username in local directory
+
+Process:
+
+1. Make the edits to the local file
+2. Save the local file
+3. git commit
+4. git push origin (branch name)
