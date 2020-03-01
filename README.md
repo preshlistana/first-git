@@ -20,15 +20,17 @@ issue.
 Now, I'm learning how to clone git repos & use my terminal to communicate with GitHub browser
 and my laptop. Here's how it works:
 
+github --> local:
+
 - git clone (insert repo URL)
 - git push (origin) (branch name) //Sends the local copy into github
-git remote //Shows the "file location name" of the github repo (usually named origin)
-git status //Shows the status of the local file (modified, not modified)
-git commit -a -m "" //a = commits all new edits, m = comment for new edits
-git log //Shows all the commits in a "log" format
-git config --list //Shows all the configuration setting of github profile
-git config --global user.mail //Ensures that when files are pushed, that it goes to the right account
-git config --global user.name //Creates a github username in local directory
+- git remote //Shows the "file location name" of the github repo (usually named origin)
+- git status //Shows the status of the local file (modified, not modified)
+- git commit -a -m "" //a = commits all new edits, m = comment for new edits
+- git log //Shows all the commits in a "log" format
+- git config --list //Shows all the configuration setting of github profile
+- git config --global user.mail //Ensures that when files are pushed, that it goes to the right account
+- git config --global user.name //Creates a github username in local directory
 
 Process:
 
@@ -39,9 +41,9 @@ Process:
 
 Local --> GitHub:
 
-git init //Initializes the folder in the terminal to use git properties
-git add //Stages the folder to be committed (think of this as a hidden process when going GitHub --> Local)
-git remote add origin (link) //Need to create a github repo to have a remote file to commit and push 
+- git init //Initializes the folder in the terminal to use git properties
+- git add //Stages the folder to be committed (think of this as a hidden process when going GitHub --> Local)
+- git remote add origin (link) //Need to create a github repo to have a remote file to commit and push 
 
 Process
 
