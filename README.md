@@ -36,3 +36,17 @@ Process:
 2. Save the local file
 3. git commit
 4. git push origin (branch name)
+
+Local --> GitHub:
+
+git init //Initializes the folder in the terminal to use git properties
+git add //Stages the folder to be committed (think of this as a hidden process when going GitHub --> Local)
+git remote add origin (link) //Need to create a github repo to have a remote file to commit and push 
+
+Process
+
+1. Create a local folder with a file
+2. git init the local folder 
+3. git add the local file 
+4. git remote add origin (link) 
+5. git push origin master to push the local folder to github
