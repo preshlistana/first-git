@@ -20,8 +20,8 @@ issue.
 Now, I'm learning how to clone git repos & use my terminal to communicate with GitHub browser
 and my laptop. Here's how it works:
 
-git clone (insert repo URL)
-git push (origin) (branch name) //Sends the local copy into github
+- git clone (insert repo URL)
+- git push (origin) (branch name) //Sends the local copy into github
 git remote //Shows the "file location name" of the github repo (usually named origin)
 git status //Shows the status of the local file (modified, not modified)
 git commit -a -m "" //a = commits all new edits, m = comment for new edits
